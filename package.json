@@ -32,7 +32,8 @@
     "express": "^4.19.2",
     "express-ip": "^1.0.4",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.4.1"
+    "mongoose": "^8.4.1",
+    "reactstrap": "^9.2.2"
   },
   "devDependencies": {
     "eslint": "^9.4.0",
